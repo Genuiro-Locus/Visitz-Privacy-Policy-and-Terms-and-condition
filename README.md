@@ -9,14 +9,16 @@ Effective Date: 2024-08-27
 1. Introduction Visitz ("we" or "our" or "us") is committed to protecting your privacy. This Privacy Policy outlines how we collect, use and protect your personal information when you use our mobile app, Visitz. By using the app, you agree to the collection and use of information in accordance with this policy.
 2. Information We Collect
 Device ID: We collect the device ID of your mobile device. This information is used solely for generating a unique license key to ensure the security and proper functioning of the app.
-3. How We Use Your Information
+Location Data: We collect and process the real-time location of the device when the app is in use. This information is used for the purpose of tracking the location of security officers, which is essential for the app's functionality.
+4. How We Use Your Information
 Security Purposes: The device ID is used to generate a license key that helps in securing the app against unauthorized access.
+Location Tracking: The location data is collected to enable organizations to track security officers in real time. The data helps organizations monitor employee locations for safety and operational purposes.
 App Functionality: The license key generated from your device ID ensures that the app operates as intended.
-4. Data Security We prioritize the security of your information. We implement industry-standard measures to protect your device ID from unauthorized access, alteration, or disclosure.
-5. Data Sharing We do not sell, trade, or otherwise transfer your device ID to outside parties. The information is used internally by Gotoz, our parent company, for the sole purpose of generating and managing license keys.
-6. Local Regulations As our app is used primarily in the UAE, we comply with relevant data protection laws and regulations applicable in this region.
-7. Changes to This Privacy Policy We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
-8. Contact Us If you have any questions about this Privacy Policy, please contact us at  info@gotoz.app.
+6. Data Security We prioritize the security of your information. We implement industry-standard measures to protect your device ID from unauthorized access, alteration, or disclosure.
+7. Data Sharing We do not sell, trade, or otherwise transfer your device ID to outside parties. The information is used internally by Gotoz, our parent company, for the sole purpose of generating and managing license keys.
+8. Local Regulations As our app is used primarily in the UAE, we comply with relevant data protection laws and regulations applicable in this region.
+9. Changes to This Privacy Policy We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
+10. Contact Us If you have any questions about this Privacy Policy, please contact us at  info@gotoz.app.
 
 
 Terms and Conditions
